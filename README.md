@@ -2,15 +2,17 @@
      HERO
      ════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:C4B5FD&height=180&section=header&text=Riya&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=52&descSize=17" width="100%" alt="Riya — Artificial Intelligence and Data Science" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=21&pause=1400&color=8B5CF6&center=true&vCenter=true&width=600&height=48&lines=AI+%26+Data+Science+undergraduate+at+PIET;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analysis;Building+SuryaShield+%E2%80%94+solar+flare+prediction;Prompt+engineering+%26+LLM+interaction;Data+Analyst+Intern+%40+Silicofeller" alt="Typing SVG" />
+<h1>Riya</h1>
+
+<p><b>Artificial Intelligence &amp; Data Science</b></p>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&pause=1400&color=8B5CF6&center=true&vCenter=true&width=620&height=40&lines=AI+%26+Data+Science+undergraduate+at+PIET;Python+%C2%B7+Machine+Learning+%C2%B7+Data+Analysis;Building+SuryaShield+%E2%80%94+solar+flare+prediction;Prompt+engineering+%26+LLM+interaction" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=riya2204-coder&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=thisisriya&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Based%20in-Panipat,%20Haryana-8B5CF6?style=flat-square&labelColor=161B22" alt="Location" />
 &nbsp;
@@ -20,7 +22,7 @@
 
 <a href="https://linkedin.com/in/riya-680b07385"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B5CF6" alt="LinkedIn" /></a>
 <a href="mailto:rixx2207@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A78BFA" alt="Email" /></a>
-<a href="https://github.com/riya2204-coder"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=1C1B22&labelColor=C4B5FD" alt="GitHub" /></a>
+<a href="https://github.com/thisisriya"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=1C1B22&labelColor=C4B5FD" alt="GitHub" /></a>
 
 <br/>
 
@@ -42,7 +44,7 @@
      ABOUT
      ════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" /> &nbsp;About
+## About
 
 I build things that turn raw signal into an answer someone can act on.
 
@@ -158,7 +160,7 @@ Real-time monitoring · probabilistic forecasting · risk visualization
 <img src="https://img.shields.io/badge/SQL-1C1B22?style=flat-square&logo=mysql&logoColor=A78BFA" />
 
 <!-- Swap this link for the repository URL once SuryaShield is public -->
-<a href="https://github.com/riya2204-coder?tab=repositories"><img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" /></a>
+<a href="https://github.com/thisisriya?tab=repositories"><img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" /></a>
 
 <br/>
 
@@ -179,7 +181,7 @@ Intelligent description matching · full-stack integration · owner notification
 <img src="https://img.shields.io/badge/Gemini%20API-1C1B22?style=flat-square&logo=googlegemini&logoColor=A78BFA" />
 
 <!-- Swap this link for the repository URL once FindIt.AI is public -->
-<a href="https://github.com/riya2204-coder?tab=repositories"><img src="https://img.shields.io/badge/View%20Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=A78BFA" /></a>
+<a href="https://github.com/thisisriya?tab=repositories"><img src="https://img.shields.io/badge/View%20Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=A78BFA" /></a>
 
 ---
 
@@ -191,25 +193,25 @@ Intelligent description matching · full-stack integration · owner notification
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=riya2204-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya2204-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=thisisriya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisriya&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=riya2204-coder&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=thisisriya&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riya2204-coder&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisriya&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=riya2204-coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=thisisriya&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 <br/><br/>
 
-<!-- Snake animation — renders once snake.yml has run at least once (see SETUP.md) -->
-<img src="https://raw.githubusercontent.com/riya2204-coder/riya2204-coder/output/snake.svg" alt="Contribution snake animation" />
+<!-- Snake animation — renders only after snake.yml has run once (see SETUP.md) -->
+<img src="https://raw.githubusercontent.com/thisisriya/thisisriya/output/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -318,12 +320,14 @@ Open to internships, collaborations, and conversations about AI, data,<br/>and p
 
 <a href="https://linkedin.com/in/riya-680b07385"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B5CF6" alt="LinkedIn" /></a>
 <a href="mailto:rixx2207@gmail.com"><img src="https://img.shields.io/badge/rixx2207@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A78BFA" alt="Email" /></a>
-<a href="https://github.com/riya2204-coder"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=1C1B22&labelColor=C4B5FD" alt="GitHub" /></a>
+<a href="https://github.com/thisisriya"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=1C1B22&labelColor=C4B5FD" alt="GitHub" /></a>
 
 <br/><br/>
 
-<i>Predict the flare. Find what's lost. Ship the dashboard.</i>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=15&pause=100000&color=A78BFA&center=true&vCenter=true&width=460&height=30&lines=Predict+the+flare.+Find+what's+lost.+Ship+the+dashboard." alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:8B5CF6&height=120&section=footer" width="100%" alt="" />
+<br/>
+
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square&labelColor=8B5CF6" width="100%" height="4" alt="" />
 
 </div>
